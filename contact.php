@@ -18,9 +18,9 @@
 	</tr>
 	<td width="600px"><p id="mainContent">
 		<ul id="contact">
-			<li>Mailing Address: 212 Deck Rd, Elmira NY 16802</li>
-			<li>Email: TOwen@gmail.com</li>
-			<li>Phone Number: 814-470-9909</li>
+			<li>Mailing Address: 2200 Random Street, Elmira AL 16835</li>
+			<li>Email: RandomEmail@gmail.com</li>
+			<li>Phone Number: 814-470-9999</li>
 			
 	</td></p>
 	<td style="vertical-align:middle;"><img src="owenImages/testImg.JPG" width="90%" height="90%" alt="slam" id="test"></td></table>
